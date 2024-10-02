@@ -1,6 +1,6 @@
 # Adidas Business Sales Analysis - Power BI Project
 
-![Adidas Sales Analysis Dashboard](./dashboard.png)
+![Adidas Sales Analysis Dashboard](./dashboard.jpg)
 
 ## Overview
 This project presents a comprehensive sales analysis for Adidas using Power BI. It covers various sales dimensions and performance indicators to help Adidas gain insights into their sales patterns, identify key drivers, and make data-driven decisions. The dashboard provides visual representations of total sales, profitability, sales volume, and other critical metrics.
